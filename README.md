@@ -1,19 +1,18 @@
 <h2 align="center">
-    ──「 ᴧᴠɪᴧx ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴧᴧʀᴜ ダ ᴍᴜsɪᴄ 」──
 
 
 <p align="center">
   <img src="https://graph.org/file/0cae92d3d28bef0d5fb00.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ᴧᴠɪᴧx ᴍᴜsɪᴄ ](https://t.me/Heavenxmusic_Bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ᴧᴧʀᴜ ᴍᴜsɪᴄ ](https://t.me/AarumusicBot)**_
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=Blue&center=true&lines=──+「+ᴧᴠɪᴧx+ダ+ᴍᴜsɪᴄ」+──;ᴧɴ+ᴧᴅᴠᴧɴᴄᴇᴅ+ɢʀᴏᴜᴘ+ᴍᴜꜱɪᴄ+ʙᴏᴛ+ᴏɴ+ᴛᴇʟᴇɢʀᴀᴍ.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=Blue&center=true&lines=──+「+ᴧᴧʀᴜ+ダ+ᴍᴜsɪᴄ」+──;ᴧɴ+ᴧᴅᴠᴧɴᴄᴇᴅ+ɢʀᴏᴜᴘ+ᴍᴜꜱɪᴄ+ʙᴏᴛ+ᴏɴ+ᴛᴇʟᴇɢʀᴀᴍ.&width=600&height=180">
 </div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 
 <p align="center">
 <a href="https://github.com/CodeLearning301/AaruMusic/stargazers"><img src="https://img.shields.io/github/stars/CodeLearning301/AaruMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -98,10 +97,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ ᴧᴠɪᴧx ᴍ�
 Stay updated with the latest features and improvements to Aviax Music Bot:
 
 <p align="center">
-  <a href="[https://t.me/](https://telegram.me/)+cZiqm41MP_44MmI1)">
+  <a href="">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/">
+  <a href="https://telegram.me/mehfil_ye_khayalat">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
